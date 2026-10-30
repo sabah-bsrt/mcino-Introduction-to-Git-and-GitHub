@@ -1,0 +1,13 @@
+$ git branch -avv
+* bug-fix-revert                95007fa [origin/bug-fix-revert] Revert "Update R
+EADME.md"
+  bug-fix-typo                  d8295ac [origin/bug-fix-typo] Fix copyright year
+ typo
+  main                          1d8eb59 [origin/main] Merge branch 'main' of htt
+ps://github.com/sabah-bsrt/mcino-Introduction-to-Git-and-GitHub
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 95007fa Revert "Update README.md"
+  remotes/origin/bug-fix-typo   d8295ac Fix copyright year typo
+  remotes/origin/main           1d8eb59 Merge branch 'main' of https://github.co
+m/sabah-bsrt/mcino-Introduction-to-Git-and-GitHub
+
